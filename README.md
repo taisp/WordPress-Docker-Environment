@@ -3,7 +3,7 @@
 ### Instruction
 
 ##### Clone this repository to your project dir;
-##### Install docker https://docs.docker.com/engine/installation/:
+##### Install docker: https://docs.docker.com/engine/installation/:
 ##### Start docker machine. https://docs.docker.com/machine/reference/start/
 ```
 docker-machine start
@@ -19,7 +19,7 @@ eval $(dokcer-machine env dafault)
 ```
 docker-compose up
 ```
-##### Check docker machine IP
+##### Check docker machine IP:
 ```
 docker-machine ip
 ```
