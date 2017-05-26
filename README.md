@@ -1,6 +1,6 @@
 # WordPress-Docker-Environment
 
-# Instruction
+### Instruction
 
 - [x] Clone this repository to your project dir;
 - [x] Install docker https://docs.docker.com/engine/installation/:
