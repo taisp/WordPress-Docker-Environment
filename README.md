@@ -4,7 +4,7 @@
 
 ##### Clone this repository to your project dir;
 ##### Install docker: https://docs.docker.com/engine/installation/:
-##### Start docker machine. https://docs.docker.com/machine/reference/start/
+##### Start docker machine: https://docs.docker.com/machine/reference/start/
 ```
 docker-machine start
 ```
