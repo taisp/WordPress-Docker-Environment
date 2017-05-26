@@ -10,7 +10,7 @@ docker-machine start
 ```
 ##### Set docker machine enviroment:
 ```
-dokcer-machine env dafault
+docker-machine env dafault
 ```
 ```
 eval $(dokcer-machine env dafault)
