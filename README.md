@@ -13,7 +13,7 @@ docker-machine start
 docker-machine env dafault
 ```
 ```
-eval $(dokcer-machine env dafault)
+eval $(docker-machine env dafault)
 ```
 ##### Run docker-compose process:
 ```
